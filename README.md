@@ -22,27 +22,29 @@ L'application dispose de 3 activités distnctes : **la page d'accueil**, les **d
 
 l'icone de l'applicaiton est customisée afin de coller le plus possible à la charte graphique de cette dernière
 
-<img src="https://github.com/CharlesPilon23/Android3A/blob/master/pictures_markdown/Icone.jpg" width="100"/>
+<img src="https://github.com/Fouedrk/ProjetAndroid1.0/blob/master/pictures_markdown/Icone.PNG" width="100"/>
+
+<img src="https://github.com/Fouedrk/ProjetAndroid1.0/blob/master/pictures_markdown/Icone1.PNG" width="250"/>
 
 ## Écran d'accueil
 
 Cet écran est celui par lequel l'utilisateur est accueilli lorsqu'il ouvre l'application, on peut y voir le nom de l'application. 
 
 
-<img src="https://github.com/CharlesPilon23/Android3A/blob/master/pictures_markdown/Ecran_accueil.jpg" width="250"/>
+<img src="https://github.com/Fouedrk/ProjetAndroid1.0/blob/master/pictures_markdown/Acceuil.PNG" width="250"/>
 
 En bas de cet écran se situent deux boutons :
 - Le bouton avec le dessin d'enveloppe permet d'**envoyer un mail au créateur de l'application** afin d'envoyer d'éventuels retours
 
-<img src="https://github.com/CharlesPilon23/Android3A/blob/master/pictures_markdown/Mail_1.jpg" width="250"/>
+<img src="https://github.com/Fouedrk/ProjetAndroid1.0/blob/master/pictures_markdown/Mail1.PNG" width="250"/>
 
 quand on clique dessus, un onglet s'ouvre en bas et l'**utilisateur est invité à choisir l'application à utiliser**. 
 
-<img src="https://github.com/CharlesPilon23/Android3A/blob/master/pictures_markdown/Mail_2.jpg" width="250"/>
+<img src="https://github.com/Fouedrk/ProjetAndroid1.0/blob/master/pictures_markdown/Mail2.PNG" width="250"/>
 
 On peut prendre par exemple Gmail, l'**application se lance** et le champ d'adresse se retrouve alors **automatiquement rempli** et l'utilisateur n'a plus qu'à tapper son message. 
 
-<img src="https://github.com/CharlesPilon23/Android3A/blob/master/pictures_markdown/Mail_3-1.jpg" width="250"/>
+<img src="https://github.com/Fouedrk/ProjetAndroid1.0/blob/master/pictures_markdown/Mail3.PNG" width="250"/>
 
 - Le bouton entrer permet de **lancer la seconde activité** initialisant la connexion avec l'API Rest
 
@@ -50,7 +52,9 @@ On peut prendre par exemple Gmail, l'**application se lance** et le champ d'adre
 
 La secone activité a pour objectif de récupérer les données obtenues via un appel à une API Rest afin de les afficher sous la forme d'une liste en utilisant la RecyclerView et un Adapter.
 
-<img src="https://github.com/CharlesPilon23/Android3A/blob/master/pictures_markdown/Liste_1.jpg" width="250"/> <img src="https://github.com/CharlesPilon23/Android3A/blob/master/pictures_markdown/Liste_2.jpg" width="250"/>
+<img src="https://github.com/Fouedrk/ProjetAndroid1.0/blob/master/pictures_markdown/Liste1.PNG"/> 
+
+<img src="https://github.com/Fouedrk/ProjetAndroid1.0/blob/master/pictures_markdown/Liste2.PNG" width="250"/>
 
 Chaque mission est symbolisée par son logo, récupéré via le lien disponible dans l'API et affiché par **Picasso**, ainsi que par son numéro de mission, son nom et son année de lancement. 
 
@@ -60,13 +64,13 @@ En cliquant sur une mission, on accède à son écran détail *(décrit ci-aprè
 
 Cet écran a pour but d'afficher les détails relatifs à chaque mission.
 
-<img src="https://github.com/CharlesPilon23/Android3A/blob/master/pictures_markdown/Detail.jpg" width="250"/>
+<img src="https://github.com/Fouedrk/ProjetAndroid1.0/blob/master/pictures_markdown/Details.PNG" width="250"/>
 
 On peut y voir le logo de la mission affiché en grand ainsi que les détails du vol. 
 
 En bas de page, un bouton permet de lancer une activité navigateur internet pointant vers l'adresse de la vidéo youtube du vol de la fusée. 
 
-<img src="https://github.com/CharlesPilon23/Android3A/blob/master/pictures_markdown/Youtube.jpg" width="250"/>
+<img src="https://github.com/Fouedrk/ProjetAndroid1.0/blob/master/pictures_markdown/Youtube.PNG" width="250"/>
 
 ## Conclusion
 
